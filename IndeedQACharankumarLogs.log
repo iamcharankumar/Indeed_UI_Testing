@@ -1,0 +1,91 @@
+[RemoteTestNG] detected TestNG version 6.8.0
+[TestNG] Running:
+  /tmp/testng-eclipse--1915732357/testng-customsuite.xml
+
+
+
+-------------------------> INDEED QA TASK BEGINS! <-------------------------
+
+
+LAUNCHING BROWSER...
+
+Starting ChromeDriver 2.32 on port 1616
+Only local connections are allowed.
+Nov 10, 2017 7:11:09 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+Landed in Indeed Resume Page Successfully!
+
+
+---------------------> INDEED HOME PAGE TEST BEGINS! <---------------------
+
+
+Indeed Logo is Present!
+Sign In Link is Present!
+Adavnced Search Link is Present!
+Job Titles Check Box is already selected
+Search Keyword and Location Search Completed
+
+
+---------------------> INDEED HOME PAGE TEST ENDS! <---------------------
+
+
+
+
+---------------------> INDEED SERP TEST BEGINS! <---------------------
+
+
+My Recent Searches are as follows:
+
+
+
+1) Software Engineer in Austin
+
+
+Search Engine Result Page Search Keyword is Present
+Search Engine Result Page Location is Present
+
+
+2) Quality Assurance in Chennai
+
+
+Home Page Search Keyword is Present
+Home Page Location Preference is Present
+
+The Local Storage for the key 'indeed.rex.serp::.RecentSearches' are - 
+
+[{"query":"Software Engineer","location":"Austin"},{"query":"Quality Assurance","location":"Chennai"}]
+Recent Search 'Clear' Link is Present!
+
+
+---------------------> INDEED SERP TEST ENDS! <---------------------
+
+
+
+
+--------------------------> BROWSER CLOSED <--------------------------
+
+
+
+
+--------------------------> INDEED QA TASK ENDS! <--------------------------
+
+
+PASSED: startIndeedQATask
+
+===============================================
+    Default test
+    Tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+[TestNG] Time taken by org.testng.reporters.EmailableReporter@77fbd92c: 6 ms
+[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@36902638: 19 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@6069db50: 8 ms
+[TestNG] Time taken by [FailedReporter passed=0 failed=0 skipped=0]: 0 ms
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5b8dfcc1: 2 ms
+[TestNG] Time taken by org.testng.reporters.jq.Main@74fe5c40: 37 ms

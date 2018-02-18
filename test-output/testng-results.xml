@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2017-11-10T13:41:08Z" name="Default suite" finished-at="2017-11-10T13:41:46Z" duration-ms="37740">
+    <groups>
+    </groups>
+    <test started-at="2017-11-10T13:41:08Z" name="Default test" finished-at="2017-11-10T13:41:46Z" duration-ms="37740">
+      <class name="com.indeed.executionmanager.IndeedExecutionManager">
+        <test-method signature="startIndeedQATask()[pri:0, instance:com.indeed.executionmanager.IndeedExecutionManager@7494f96a]" started-at="2017-11-10T19:11:08Z" name="startIndeedQATask" finished-at="2017-11-10T19:11:46Z" duration-ms="37712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startIndeedQATask -->
+      </class> <!-- com.indeed.executionmanager.IndeedExecutionManager -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

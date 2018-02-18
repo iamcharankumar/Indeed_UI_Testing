@@ -1,0 +1,31 @@
+Verification Notes
+- I've tested the components present in the Indeed Home Page which are consumed in a large amount by any user.
+- I've explained all the test cases I executed for the components present in the 'Home Page' and 'Search Engine Result Page' in the 'Charankumar_Indeed_QA_Task_Test_Cases.xslx'.
+- I've tested the recent search population against the input fed to the search engine and tested that it is populated in the local storage of the browser.
+- Along with the other testing activities, I've printed the key value pair of the local storage which could be found in 'IndeedQACharankumarLogs.log'
+- I've also tested the order of recent searches.
+- I've taken screenshots in all possible testing check points.
+- I've located the web elements as efficiently as possible in the framework.
+
+Unclear Requirements
+
+- The statement: 'Queries without a Q should not be included' is quite difficult to understand because, is it referring a DB query or any other search string query.
+
+Report a Bug
+
+- I couldn't find one in this short span of the task. Hence, No Bug(s) as of now. 
+
+General Questions:
+
+1. When you first used Indeed.com, what did you think about it?
+
+- I was highly impressed with the search engine as it was allowing me to form a direct relationship with the recruiters and job seekers.
+- The 'Apply with Phone' option made job application really easy and increased the interest to spend more time in Indeed.
+- The search results are very relevant and encourage more searches.
+- The UI is very simple and helped me to navigate easily
+- And yes, I felt, it is the front runner in nextgen job search and wanted to be a part of it.  
+
+2. If you could make some improvement on it, what would that be?
+
+- Speech recognition for job seekers who're blind and have more challenge in normal eye sight.
+- Interactive search results, again for the blind and have more challenge in normal eye sight. (Something Like Amazon Echo)
